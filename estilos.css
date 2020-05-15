@@ -1,0 +1,17 @@
+*{margin: 0; padding: 0;}
+
+html{
+    background-color: teal;
+}
+
+.logo{
+    width: 20vh;
+
+}
+
+.container-fluid{
+    background-color: white transparent;
+    position: sticky;
+    padding-left: 4vh;
+
+}
